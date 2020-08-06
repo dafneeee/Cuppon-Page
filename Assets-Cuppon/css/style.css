@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300;500&display=swap');
+
+body{
+    font-family: 'Roboto', sans-serif;
+}
+
+.nav-title{
+    font-weight: 500;
+    font-size: 25px;
+}
+
+.p-footer{
+    font-weight: 300;
+    font-size: 16px;
+}
+
+h2{
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.greyColor{
+    color: #707070
+}
+
+.cardText{
+    font-size: 20pt;
+    font-weight: 300;
+}
+
+.p-card{
+    font-size: 16pt;
+    font-weight: 300;
+}
+
+.p-card-text{
+    font-size: 13pt;
+    display: inline-block;
+    font-weight: 300;
+}
+
+.pGreen{
+    color: #28A745;
+    font-size: 20pt;
+}
